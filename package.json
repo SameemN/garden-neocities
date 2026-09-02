@@ -1,0 +1,11 @@
+{
+  "name": "garden-neocities",
+  "version": "1.0.0",
+  "description": "Garden Neocities site",
+  "scripts": {
+    "build": "echo 'Add your build command here'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
